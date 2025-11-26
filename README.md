@@ -90,8 +90,7 @@ Debugged VBA Script (paste-based):
 
     CleanFail:
         MsgBox "Nothing to paste or invalid clipboard content.", vbExclamation
-        Resume CleanExit
-        
+        Resume CleanExit    
     End Sub
 
 🧹 Data Cleaning
